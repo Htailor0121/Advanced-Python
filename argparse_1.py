@@ -7,7 +7,7 @@ if __name__ == "__main__":
     parser.add_argument("operation",help="operation",choices = ["add","substract","multiply"] )
 
     args = parser.parse_args()
-
+# for the understanding
     print(args.number1)
     print(args.number2)
     print(args.operation)
