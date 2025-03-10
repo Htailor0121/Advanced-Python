@@ -8,3 +8,4 @@ for a in z:
 
 d = {city:country for city, country in zip(cities,countries)}
 print(d)
+# for the understanding

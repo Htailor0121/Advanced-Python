@@ -54,7 +54,7 @@ t1.join()
 t2.join()
 
 # t3.join()
-
+# for the understanding
 # t4.join()
 
 print("Done In:",time.time()-t)

@@ -12,8 +12,8 @@ def calc_cube(numbers):
     time.sleep(0.2)
     for number in numbers:
         print("cube -->",number * number * number)
+# for the understanding
 
-        
 if __name__ == "__main__":
     arr = [2,3,8,9,11]
 

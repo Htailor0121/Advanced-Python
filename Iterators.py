@@ -24,5 +24,5 @@ print(next(itr))
 
 print(next(itr))
 
-
+# for the understanding
 

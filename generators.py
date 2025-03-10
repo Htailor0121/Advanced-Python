@@ -14,7 +14,7 @@ for f in fibbo():
     if f>=50:
         break
     print(f)
-
+# for the understanding
 
 
 

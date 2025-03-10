@@ -25,3 +25,4 @@ array = range(1,100000)
 out_square = cal_square(array)
 out_cube = cal_cube(array)
 
+# for the understanding

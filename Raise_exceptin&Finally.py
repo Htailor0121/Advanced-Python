@@ -12,7 +12,7 @@ except Accident as e:
     e.handle()
 
 #     # Finally Keyword
-
+# for the understanding
 # try:
 #     1 > 3
 # except:
