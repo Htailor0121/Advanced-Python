@@ -13,6 +13,7 @@ def calc_cube(numbers):
     for number in numbers:
         print("cube -->",number * number * number)
 
+        
 if __name__ == "__main__":
     arr = [2,3,8,9,11]
 
